@@ -1,0 +1,208 @@
+
+.buyuk{
+width:590px;
+height: auto;
+margin: 10px auto 0 auto;
+
+
+}
+
+.menu1{
+    width: 590px;
+    height: 50px;
+    margin: 0 auto;
+}
+
+.menu1 ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.menu1 ul li{
+    float: left;
+}
+
+.menu1 ul li a{
+    display: block;
+    height: 50px;
+    text-indent: -2000px;
+
+}
+
+
+.menu1 ul li#about a{
+    width:56px;
+    background: url(images/css-baliklama16.gif) no-repeat;
+    background-position: -6px -100px;
+    margin:0 0 0 8px;
+
+}
+
+.menu1 ul li#about a:hover{
+    opacity: 0.7;
+}
+
+.menu1 ul li#services a{
+    width: 84px;
+    background: url(images/css-baliklama17.gif) no-repeat;
+    background-position: 0 0;
+
+}
+
+.menu1 ul li#services a:hover{
+    background: url(images/css-baliklama17.gif) no-repeat;
+    background-position: 0 -100px;
+}
+
+.menu1 ul li#portfolio a{
+    width: 95px;
+    background: url(images/css-baliklama18.gif) no-repeat;
+    background-position: 0 0;
+}
+
+
+.menu1 ul li#portfolio a:hover{
+    background: url(images/css-baliklama18.gif) no-repeat;
+    background-position: 0 -100px;
+}
+
+.menu1 ul li#contact a{
+    width: 106px;
+    background: url(images/css-baliklama19.gif) no-repeat;
+    background-position: 0 0;
+}
+
+.menu1 ul li#contact a:hover{
+    background: url(images/css-baliklama19.gif) no-repeat;
+    background-position: 0 -100px;
+}
+
+.menualtkutu{
+    width: 200px;
+    height:71px;
+    background: url(images/css-baliklama12.jpg) no-repeat;
+    padding: 45px 0 0 390px;
+}
+
+.ortasol{
+    width:350px;
+    height: 340px;
+    float: left;
+    padding:20px 0 0 15px;
+    margin: 0 5px 0 0;
+    
+}
+
+
+.ortasag{
+    width:205px;
+    height:340px;
+    padding:20px 0 0 15px;
+    float: left;    
+}
+
+.yazikutu{
+
+    width: 180px;
+    height:20px;
+ 
+}
+
+.yazi{
+
+    font:20px verdana;
+    color: white;
+}
+
+.yazi2{
+    font: 16px verdana;
+    color:white;
+}
+
+
+.yazi3{
+
+    font: 15px verdana;
+    color:#db6d16;
+}
+
+
+.yazi4{
+    font: bold 12px verdana;
+    color:black;
+}
+.yazi5{
+    font: 12px verdana;
+    color: black;
+}
+
+.yazi6{
+    font:15px verdana;
+    color:#51361a;
+}
+
+.yazi7{
+    font: 10px sans-serif;
+    color:#c9c9c9;
+}
+
+.ortasol span a{
+    font:12px verdana;
+    color:#51361a;
+
+    text-decoration: none;
+}
+
+.altkutu{
+
+    width: 590px;
+    height: 80px;
+    
+}
+
+
+.altsolkutu{
+    width:305px;
+    height: 75px;
+    float: left;
+    padding: 5px 0 0 15px;
+
+}
+
+.altsagkutu{
+    width: 270px;
+    height: 80px;
+    float: left;
+
+}
+
+.menu2{
+    width: 270px;
+    height: 80px;
+}
+
+.menu2 ul{
+    margin: 0;
+    padding: 0;
+    list-style: none
+}
+
+.menu2 ul li {
+    float: left
+}
+
+
+
+
+.menu2 ul li a{
+    width:54px;
+    height: 80px;
+    font:10px verdana;
+    color:#c9c9c9;
+    text-decoration: none;
+
+}
+.menu2 ul li a:hover{
+    opacity: 0.5px;
+}
